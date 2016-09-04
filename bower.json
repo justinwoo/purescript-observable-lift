@@ -1,0 +1,29 @@
+{
+  "name": "purescript-observable-lift",
+  "version": "0.1.0",
+  "license": "LGPL-3.0+",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/justinwoo/purescript-observable-lift.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-observable": "^2.2.0",
+    "purescript-eff": "^1.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^1.0.0",
+    "purescript-test-unit": "^9.0.0"
+  }
+}

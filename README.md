@@ -2,6 +2,8 @@
 
 Functions for lifting various forms for [purescript-observable](https://github.com/bodil/purescript-observable).
 
+See the docs on [Pursuit](https://pursuit.purescript.org/packages/purescript-observable-lift/0.1.0).
+
 ## License
 
 © 2016 Justin Woo
